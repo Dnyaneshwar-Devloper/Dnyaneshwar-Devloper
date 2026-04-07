@@ -36,7 +36,7 @@
 
 ---
 
-<p align="center">  🛠️ Data Analytics Toolkit </p>
+<h1 align="center">  🛠️ Data Analytics Toolkit </h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark" />
