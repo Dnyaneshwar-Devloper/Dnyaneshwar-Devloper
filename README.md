@@ -83,26 +83,26 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
+      <td width="50%" align="center">
         <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning&theme=tokyonight&border_radius=10" alt="Machine Learning" width="380"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning&theme=tokyonight&border_radius=10&bg_color=0D1117" width="100%"/>
         </a>
       </td>
-      <td>
+      <td width="50%" align="center">
         <a href="https://github.com/Dnyaneshwar-Devloper/Gopuff-Delivery-Analysis">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Gopuff-Delivery-Analysis&theme=tokyonight&border_radius=10" alt="Gopuff Analysis" width="380"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Gopuff-Delivery-Analysis&theme=tokyonight&border_radius=10&bg_color=0D1117" width="100%"/>
         </a>
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="50%" align="center">
         <a href="https://github.com/Dnyaneshwar-Devloper/Data-Science-Resources">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=tokyonight&border_radius=10" alt="Data Science Resources" width="380"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=tokyonight&border_radius=10&bg_color=0D1117" width="100%"/>
         </a>
       </td>
-      <td>
+      <td width="50%" align="center">
         <a href="https://github.com/Dnyaneshwar-Devloper/DSA-Interview-Prep-Python">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=DSA-Interview-Prep-Python&theme=tokyonight&border_radius=10" alt="DSA Prep" width="380"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=DSA-Interview-Prep-Python&theme=tokyonight&border_radius=10&bg_color=0D1117" width="100%"/>
         </a>
       </td>
     </tr>
@@ -110,9 +110,8 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70d1f4&height=100&section=footer" width="100%"/>
 </p>
-
 <h4 align="center">
   <a href="https://github.com/Dnyaneshwar-Devloper?tab=repositories">🔍 Show More Projects 🔍</a>
 </h4>
