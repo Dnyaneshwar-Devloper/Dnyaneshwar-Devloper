@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h1 align="center">  📊 GitHub Stats</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-Devloper&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -62,7 +62,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+<h1 align="center">  🔥 GitHub Streak </h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dnyaneshwar-Devloper&theme=tokyonight&hide_border=true"/>
@@ -70,7 +70,7 @@
 
 ---
 
-## 📈 Contribution Graph
+<h1 align="center">  📈 Contribution Graph</h1>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dnyaneshwar-Devloper&theme=react-dark"/>
@@ -78,7 +78,7 @@
 
 ---
 
-## 🚀 Data Analytics Projects
+<h1 align="center">  🚀 Data Analytics Projects</h1>
 
 <p align="center">
   <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning">
@@ -108,7 +108,7 @@
 
 ---
 
-## 🏆 Achievements
+<h1 align="center"> 🏆 Achievements</h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dnyaneshwar-Devloper&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -116,7 +116,7 @@
 
 ---
 
-## ⚡ Fun Fact
+<h1 align="center"> ⚡ Fun Fact</h1>
 
 <p align="center">
   I turn raw data into meaningful insights 📊✨
