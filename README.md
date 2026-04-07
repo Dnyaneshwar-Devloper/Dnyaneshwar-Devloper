@@ -142,26 +142,23 @@
 
 <div width="100%" align="center">
 
-  <!-- Repo 1: Data Science Resources -->
-  <a href="https://github.com/Dnyaneshwar-Devloper/Data-Science-Resources" title="Data Science Resources">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=react&border_radius=10" />
+<p align="center">
+  <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning-&theme=react&hide_border=true" />
   </a>
 
-  <!-- Repo 2: Git GitHub Practice -->
-  <a href="https://github.com/Dnyaneshwar-Devloper/GIT-GITHUB-practice" title="GitHub Practice">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=GIT-GITHUB-practice&theme=react&border_radius=10" />
+  <a href="https://github.com/Dnyaneshwar-Devloper/DSA-Interview-Prep-Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=DSA-Interview-Prep-Python&theme=react&hide_border=true" />
   </a>
 
-</div>
-
-<br/><br/>
-
-<div width="100%" align="center">
-
-  <!-- Repo 3: Machine Learning -->
-  <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning-" title="Machine Learning">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning-&theme=react&border_radius=10" />
+  <a href="https://github.com/Dnyaneshwar-Devloper/Data-Science-Resources">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=react&hide_border=true" />
   </a>
+
+  <a href="https://github.com/Dnyaneshwar-Devloper/Gopuff-Delivery-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Gopuff-Delivery-Analysis&theme=react&hide_border=true" />
+  </a>
+</p>
 
 </div>
 
