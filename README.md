@@ -78,26 +78,40 @@
 
 ---
 
-<h1 align="center">🚀 Data Analytics Projects</h1>
+<h2 align="center">🚀 Featured Data Analytics Projects</h2>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning&theme=tokyonight&border_radius=10" alt="Machine Learning" width="380"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Dnyaneshwar-Devloper/Gopuff-Delivery-Analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Gopuff-Delivery-Analysis&theme=tokyonight&border_radius=10" alt="Gopuff Analysis" width="380"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Dnyaneshwar-Devloper/Data-Science-Resources">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=tokyonight&border_radius=10" alt="Data Science Resources" width="380"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Dnyaneshwar-Devloper/DSA-Interview-Prep-Python">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=DSA-Interview-Prep-Python&theme=tokyonight&border_radius=10" alt="DSA Prep" width="380"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning&theme=tokyonight&show_owner=true" alt="Machine Learning Repo"/>
-  </a>
-  <a href="https://github.com/Dnyaneshwar-Devloper/Gopuff-Delivery-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Gopuff-Delivery-Analysis&theme=tokyonight&show_owner=true" alt="Gopuff Analysis Repo"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Dnyaneshwar-Devloper/Data-Science-Resources">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=tokyonight&show_owner=true" alt="Data Science Resources Repo"/>
-  </a>
-  <a href="https://github.com/Dnyaneshwar-Devloper/DSA-Interview-Prep-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=DSA-Interview-Prep-Python&theme=tokyonight&show_owner=true" alt="DSA Prep Repo"/>
-  </a>
-</p>
----
 
 <h4 align="center">
   <a href="https://github.com/Dnyaneshwar-Devloper?tab=repositories">🔍 Show More Projects 🔍</a>
