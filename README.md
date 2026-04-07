@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning-&theme=tokyonight&hide_border=true"/>
   </a>
 
   <a href="https://github.com/Dnyaneshwar-Devloper/Gopuff-Delivery-Analysis">
