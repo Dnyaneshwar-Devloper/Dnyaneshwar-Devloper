@@ -169,7 +169,7 @@
 
 <!-- Show more -->
 <h4 align="center">
-  <a href="https://github.com/Dnyaneshwar-Devloper?tab=repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Dnyaneshwar-Devloper/My-project">🔎 Show More 🔍</a>
 </h4>
 <!-- FOOTER ANIMATION -->
 <p align="center">
