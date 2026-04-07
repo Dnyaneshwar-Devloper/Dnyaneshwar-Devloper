@@ -78,28 +78,25 @@
 
 ---
 
-<h1 align="center">  🚀 Data Analytics Projects</h1>
+<h1 align="center">🚀 Data Analytics Projects</h1>
 
 <p align="center">
   <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning-&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning&theme=tokyonight&show_owner=true" alt="Machine Learning Repo"/>
   </a>
-
   <a href="https://github.com/Dnyaneshwar-Devloper/Gopuff-Delivery-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Gopuff-Delivery-Analysis&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Gopuff-Delivery-Analysis&theme=tokyonight&show_owner=true" alt="Gopuff Analysis Repo"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Dnyaneshwar-Devloper/Data-Science-Resources">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=tokyonight&show_owner=true" alt="Data Science Resources Repo"/>
   </a>
-
   <a href="https://github.com/Dnyaneshwar-Devloper/DSA-Interview-Prep-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=DSA-Interview-Prep-Python&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=DSA-Interview-Prep-Python&theme=tokyonight&show_owner=true" alt="DSA Prep Repo"/>
   </a>
 </p>
-
 ---
 
 <h4 align="center">
