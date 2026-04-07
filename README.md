@@ -137,10 +137,7 @@
 <hr />
 
 <!-- repositories -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br />
-
-<div width="100%" align="center">
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning-">
@@ -159,11 +156,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Gopuff-Delivery-Analysis&theme=react&hide_border=true" />
   </a>
 </p>
-
-</div>
-
-<br /><br />
-
 <!-- Show more -->
 <h4 align="center">
   <a href="https://github.com/Dnyaneshwar-Devloper/My-project">🔎 Show More 🔍</a>
