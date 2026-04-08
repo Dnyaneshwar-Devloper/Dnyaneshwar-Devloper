@@ -36,7 +36,7 @@
 
 ---
 
-<h1 align="center">  🛠️ Data Analytics Toolkit </h1>
+<h2 align="center">  🛠️ Data Analytics Toolkit </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark" />
@@ -53,7 +53,7 @@
 
 ---
 
-<h1 align="center">  📊 GitHub Stats</h1>
+<h2 align="center">  📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-Devloper&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -62,7 +62,7 @@
 
 ---
 
-<h1 align="center">  🔥 GitHub Streak </h1>
+<h2 align="center">  🔥 GitHub Streak </h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dnyaneshwar-Devloper&theme=tokyonight&hide_border=true"/>
@@ -70,7 +70,7 @@
 
 ---
 
-<h1 align="center">  📈 Contribution Graph</h1>
+<h2 align="center">  📈 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dnyaneshwar-Devloper&theme=react-dark"/>
@@ -78,7 +78,7 @@
 
 ---
 
-<h2 align="center">🚀 Featured Data Analytics Projects</h2>
+<h2 align="center">🚀 Repositories</h2>
 
 <div align="center">
   <h3>
@@ -94,7 +94,7 @@
 </div>
 
 
-<h1 align="center"> 🏆 Achievements</h1>
+<h2 align="center"> 🏆 Achievements</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dnyaneshwar-Devloper&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -102,7 +102,7 @@
 
 ---
 
-<h1 align="center"> ⚡ Fun Fact</h1>
+<h2 align="center"> ⚡ Fun Fact</h2>
 
 <p align="center">
   I turn raw data into meaningful insights 📊✨
