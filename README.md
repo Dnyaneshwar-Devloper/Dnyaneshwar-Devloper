@@ -5,7 +5,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Dnyaneshwar-Devloper">
 
 <!-- INTRO ANIMATION -->
-<h1 align="center">
+<h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dnyaneshwar+Surve;Aspiring+Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights+🚀" />
 </h1>
 
@@ -54,16 +54,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 </p>
 
----
 
-<h2 align="center">  ⭐ GitHub Stars</h2>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-Devloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dnyaneshwar's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar-Devloper&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</div>
 
 ---
 
