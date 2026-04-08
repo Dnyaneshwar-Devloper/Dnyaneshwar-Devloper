@@ -53,12 +53,14 @@
 
 ---
 
-<h2 align="center">  ⭐ GitHub Stats</h2>
+<h2 align="center">  ⭐ GitHub Stars</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-Devloper&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar-Devloper&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-Devloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dnyaneshwar's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar-Devloper&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
 
 ---
 
