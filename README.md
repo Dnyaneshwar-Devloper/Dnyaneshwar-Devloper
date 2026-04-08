@@ -99,19 +99,7 @@
 </div>
 
 
-<h2 align="center"> 🏆 Achievements</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dnyaneshwar-Devloper&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<h2 align="center"> ⚡ Fun Fact</h2>
-
-<p align="center">
-  I turn raw data into meaningful insights 📊✨
-</p>
 
 ---
 
