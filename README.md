@@ -80,42 +80,23 @@
 
 <h2 align="center">🚀 Featured Data Analytics Projects</h2>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning&theme=tokyonight&border_radius=10&bg_color=0D1117" width="100%"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Dnyaneshwar-Devloper/Gopuff-Delivery-Analysis">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Gopuff-Delivery-Analysis&theme=tokyonight&border_radius=10&bg_color=0D1117" width="100%"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Dnyaneshwar-Devloper/Data-Science-Resources">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=tokyonight&border_radius=10&bg_color=0D1117" width="100%"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Dnyaneshwar-Devloper/DSA-Interview-Prep-Python">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=DSA-Interview-Prep-Python&theme=tokyonight&border_radius=10&bg_color=0D1117" width="100%"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Machine-Learning&theme=tokyonight&hide_border=true" width="45%" />
+  </a>
+  <a href="https://github.com/Dnyaneshwar-Devloper/Gopuff-Delivery-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Gopuff-Delivery-Analysis&theme=tokyonight&hide_border=true" width="45%" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=70d1f4&height=100&section=footer" width="100%"/>
+  <a href="https://github.com/Dnyaneshwar-Devloper/Data-Science-Resources">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=tokyonight&hide_border=true" width="45%" />
+  </a>
+  <a href="https://github.com/Dnyaneshwar-Devloper/DSA-Interview-Prep-Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=DSA-Interview-Prep-Python&theme=tokyonight&hide_border=true" width="45%" />
+  </a>
 </p>
-<h4 align="center">
-  <a href="https://github.com/Dnyaneshwar-Devloper?tab=repositories">🔍 Show More Projects 🔍</a>
-</h4>
-
 ---
 
 <h1 align="center"> 🏆 Achievements</h1>
