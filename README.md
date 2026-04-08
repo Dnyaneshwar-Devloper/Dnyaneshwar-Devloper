@@ -80,13 +80,11 @@
 
 <h2 align="center">🚀 Featured Data Analytics Projects</h2>
 
-<h2 align="center">🚀 Featured Data Analytics Projects</h2>
-
 <div align="center">
   <h3>
     <a href="https://github.com/Dnyaneshwar-Devloper/Gopuff-Delivery-Analysis">📊 Gopuff Delivery Analysis</a>
     &nbsp;&nbsp; | &nbsp;&nbsp;
-    <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning">🤖 Machine Learning</a>
+    <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning-">🤖 Machine Learning</a>
   </h3>
   <h3>
     <a href="https://github.com/Dnyaneshwar-Devloper/DSA-Interview-Prep-Python">🧠 DSA Interview Prep (Python)</a>
