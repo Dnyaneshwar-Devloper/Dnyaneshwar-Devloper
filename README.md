@@ -53,7 +53,7 @@
 
 ---
 
-<h2 align="center">  📊 GitHub Stats</h2>
+<h2 align="center">  ⭐ GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-Devloper&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
