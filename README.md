@@ -94,6 +94,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=tokyonight&hide_border=true" width="45%" />
   </a>
   <a href="https://github.com/Dnyaneshwar-Devloper/DSA-Interview-Prep-Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=DSA-Interview-Prep-Python&theme=tokyonight&hide_border=true" width="45%" />
   
   </a>
 </p>
