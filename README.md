@@ -1,10 +1,9 @@
 <!-- profile view count -->
-
-<img align="right" src="https://komarev.com/ghpvc/?username=Dnyaneshwar-Devloper">
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=#800080,100:000000&height=120&section=header"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#800080,500:000000&height=120&section=header"/>
 </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=Dnyaneshwar-Devloper">
+
 <!-- INTRO ANIMATION -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dnyaneshwar+Surve;Aspiring+Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights+🚀" />
@@ -118,5 +117,4 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:#800080,100:000000&height=120&section=footer"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/></p>
