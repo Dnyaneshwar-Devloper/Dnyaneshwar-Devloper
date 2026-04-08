@@ -2,7 +2,8 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Dnyaneshwar-Devloper">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,500:000000&height=120&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=#800080,500:000000&height=120&section=header"/>
+
 </p>
 <!-- INTRO ANIMATION -->
 <h1 align="center">
