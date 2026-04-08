@@ -82,32 +82,18 @@
 
 <h2 align="center">🚀 Featured Data Analytics Projects</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="45%">
-      <a href="https://github.com/Dnyaneshwar-Surve/Gopuff-Delivery-Analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Surve&repo=Gopuff-Delivery-Analysis&theme=tokyonight" alt="Gopuff Delivery Analysis" />
-      </a>
-    </td>
-    <td align="center" width="45%">
-      <a href="https://github.com/Dnyaneshwar-Surve/Machine-Learning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Surve&repo=Machine-Learning&theme=tokyonight" alt="Machine Learning" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="45%">
-      <a href="https://github.com/Dnyaneshwar-Surve/DSA-Interview-Prep-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Surve&repo=DSA-Interview-Prep-Python&theme=tokyonight" alt="DSA Prep" />
-      </a>
-    </td>
-    <td align="center" width="45%">
-      <a href="https://github.com/Dnyaneshwar-Surve/Data-Science-Resources">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Surve&repo=Data-Science-Resources&theme=tokyonight" alt="Data Science Resources" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>
+    <a href="https://github.com/Dnyaneshwar-Devloper/Gopuff-Delivery-Analysis">📊 Gopuff Delivery Analysis</a>
+    &nbsp;&nbsp; | &nbsp;&nbsp;
+    <a href="https://github.com/Dnyaneshwar-Devloper/Machine-Learning">🤖 Machine Learning</a>
+  </h3>
+  <h3>
+    <a href="https://github.com/Dnyaneshwar-Devloper/DSA-Interview-Prep-Python">🧠 DSA Interview Prep (Python)</a>
+    &nbsp;&nbsp; | &nbsp;&nbsp;
+    <a href="https://github.com/Dnyaneshwar-Devloper/Data-Science-Resources">📚 Data Science Resources</a>
+  </h3>
+</div>
 
 
 <h1 align="center"> 🏆 Achievements</h1>
