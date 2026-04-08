@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dnyaneshwar-Devloper/Data-Science-Resources">
+  <a href="https://github.com/Dnyaneshwar-Devloper/Python-for-Data-Science">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwar-Devloper&repo=Data-Science-Resources&theme=tokyonight&hide_border=true" width="45%" />
   </a>
   <a href="https://github.com/Dnyaneshwar-Devloper/DSA-Interview-Prep-Python">
