@@ -57,10 +57,15 @@
 
 
 ---
-<a href="http://www.github.com/Dnyaneshwar-Devlpoer"><img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-Devlpoer&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tejasvi-official's GitHub stats" /></a>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshwar-Devloper&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+</p>
 
-<a href="http://www.github.com/Dnyaneshwar-Devlpoer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshwar-Devlpoer&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dnyaneshwar-Devloper&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 
